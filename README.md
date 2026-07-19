@@ -3,7 +3,7 @@
 
 <!-- 动态打字标语 -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=500&color=58A6FF&center=true&vCenter=true&width=500&lines=Python+%7C+Flask+%7C+Java+%7C+C%2B%2B;Learning+Vue.js+%26+React;Backend+%E2%86%92+Full-Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=500&color=58A6FF&center=true&vCenter=true&width=500&lines=Python+%7C+Java+%7C+C%2B%2B;Learning+Vue.js+%26+React;Backend+%E2%86%92+Full-Stack+Developer" alt="Typing SVG" />
 </p>
 
 ---
